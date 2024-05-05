@@ -1,0 +1,4 @@
+0 adenocarcinoma_left.lower.lobe
+1 large.cell.carcinoma_left.hilium
+2 Normal
+3 squamous.cell.carcinoma_left.hilum
